@@ -1,2 +1,42 @@
-# -
-📚本仓库主要是关于记录数据结构的代码实现，理论知识较少。希望大家能从中学到东西。
+##  数据结构🐤
+
+[![robin](https://img.shields.io/badge/robin-github-black.svg)](https://github.com/RobinOfSky)
+![license](https://img.shields.io/hexpm/l/plug.svg)
+[![link](https://img.shields.io/badge/Log-CSDN-red.svg)](https://blog.csdn.net/qq_41848006)
+![email](https://img.shields.io/badge/email163-tigerofsky-green.svg)
+![commit](https://img.shields.io/github/last-commit/google/skia.svg)
+
+### 一，数据结构的组成🍏 
+
+![enter image description here](https://i.loli.net/2019/05/23/5ce69038e54ab57984.jpg)(https://i.loli.net/2019/05/23/5ce69038e54ab57984.jpg)
+
+### 二，数据结构的代码实现 🍎 
+>  主要是Java写的，基本的理论涉及的较少，但是算法注释很清楚，希望大家能学到东西。有不对的地方希望指出。
+> 
+ 🍇 1. [数据结构的思想](https://github.com/RobinOfSky/Data-structure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%9A%84%E6%80%9D%E6%83%B3.md)
+
+ 🍐 2. [单链表](https://github.com/RobinOfSky/Data-structure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%94%E5%8D%95%E9%93%BE%E8%A1%A8.md)
+
+ 🍊 3. [双链表](https://github.com/RobinOfSky/Data-structure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E2%80%94%E5%8F%8C%E9%93%BE%E8%A1%A8.md)
+
+ 🍋 4. [循环链表](https://github.com/RobinOfSky/Data-structure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84---%E5%BE%AA%E7%8E%AF%E9%93%BE%E8%A1%A8.md)
+
+ 🍌 5. [栈的实现](https://github.com/RobinOfSky/Data-structure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E2%80%94%E6%A0%88%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
+
+
+🍉 6. [单链表栈](https://github.com/RobinOfSky/Data-structure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E2%80%94%E5%8D%95%E9%93%BE%E8%A1%A8%E6%A0%88.md)
+
+ 🍓 7. [循环队列](https://github.com/RobinOfSky/Data-structure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E2%80%94%E5%BE%AA%E7%8E%AF%E9%98%9F%E5%88%97.md)
+
+
+ 🍈 8. [二叉查找树](https://github.com/RobinOfSky/Data-structure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E2%80%94%E4%BA%8C%E5%8F%89%E6%9F%A5%E6%89%BE%E6%A0%91%EF%BC%88%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%EF%BC%8C%E4%BA%8C%E5%8F%89%E6%8E%92%E5%BA%8F%E6%A0%91%EF%BC%89.md)
+ 
+
+ 🥑 9. [双端队列](https://github.com/RobinOfSky/Data-structure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E2%80%94%E5%8F%8C%E7%AB%AF%E9%98%9F%E5%88%97.md)
+ 
+
+
+ 🌽  10. [优先级队列](https://github.com/RobinOfSky/Data-structure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E2%80%94%E4%BC%98%E5%85%88%E7%BA%A7%E9%98%9F%E5%88%97.md)
+ 
+ ### 三，对数据结构的思想认识
+ 
